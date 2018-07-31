@@ -1,0 +1,21 @@
+
+body{
+  /*background: gray;*/
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOwCs_K0qRcmwuOxLoW-5hL6WnbKElAMjR57iemu6I41U33Xq2)
+}
+
+div{
+  background: blue;
+  border-color: orange;
+  border-width: 4px;
+  border-style: double;
+}
+
+p{
+  color: white;
+}
+
+span{
+  background: black;
+  color: yellow;
+}
